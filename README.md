@@ -1,8 +1,22 @@
-# 📊 Jar Growth Intern Assignment
+# 📊 Jar Growth Data Analysis
+
+Professional Sales Data Analysis Project developed using Python, Pandas and Matplotlib.
+
+This project analyzes sales performance, profitability, monthly sales targets and regional performance to generate business insights using real-world datasets.
 
 A professional data analysis project developed as part of the Jar Growth Internship Assignment.
 
 This project analyzes sales performance, profitability, monthly sales targets, and regional business performance using Python and data visualization techniques.
+
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-success)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ## 📸 Project Screenshots
 ### Category-wise Total Sales
@@ -27,25 +41,63 @@ The analysis includes:
 - Regional Sales Performance
 - Business Recommendations
 
+## ⭐ Project Highlights
+
+✔ Category-wise Sales Analysis
+
+✔ Profitability Analysis
+
+✔ Monthly Target Achievement Analysis
+
+✔ Regional Sales Performance
+
+✔ Professional Data Visualizations
+
+✔ Business Recommendations
+
+✔ Recruiter-Friendly Documentation
+
+✔ Portfolio-Ready Project Structure
+
 ## ✨ Features
 
-- Data Cleaning
-- Data Merging
-- Category-wise Sales Analysis
-- Profit Margin Calculation
-- Monthly Target Analysis
-- Regional Performance Analysis
-- Business Insights
-- Professional Charts
-- Clean Project Structure
+- Data Cleaning and Validation
 
-## 🛠️ Technologies Used
+- Dataset Merging using Pandas
+
+- Category-wise Sales Analysis
+
+- Profit Margin Calculation
+
+- Monthly Target Trend Analysis
+
+- Regional Performance Analysis
+
+- Business Insight Generation
+
+- Professional Charts using Matplotlib
+
+- Clean Folder Structure
+
+- Exportable Reports
+
+## 🛠 Tech Stack
 
 - Python
+
 - Pandas
+
 - Matplotlib
+
+- OpenPyXL
+
 - Microsoft Excel
+
 - Microsoft Word
+
+- Git
+
+- GitHub
 
 ## 📂 Project Structure
 
@@ -96,15 +148,43 @@ Run the project
 ```bash
 python assignment.py
 ```
-## 📊 Project Output
+## 📊 Generated Outputs
 
-The project generates:
+The project automatically generates:
 
-- Category-wise Sales Chart
-- Furniture Target Trend Chart
-- Regional Sales Performance Chart
+- Category-wise Sales Report
+
+- Profitability Summary
+
+- Monthly Target Trend Analysis
+
+- Regional Performance Summary
+
 - Business Insights
-- Summary Tables
+
+- Professional Charts
+
+- Word Report
+
+- PDF Report
+
+## 📚 Key Learnings
+
+During this project I learned:
+
+- Data Cleaning
+
+- Data Analysis using Pandas
+
+- Business KPI Analysis
+
+- Data Visualization
+
+- Python Project Structure
+
+- Business Reporting
+
+- Git & GitHub Workflow
 
 ## 🚀 Future Improvements
 
@@ -120,4 +200,8 @@ The project generates:
 
 Python Developer | Data Analytics Enthusiast
 
-GitHub: https://github.com/soniyaritgithub
+GitHub:
+https://github.com/soniyaritgithub
+
+LinkedIn:
+https://www.linkedin.com/in/sunidhishinde/
