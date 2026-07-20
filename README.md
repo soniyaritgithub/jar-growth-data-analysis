@@ -184,11 +184,11 @@ During this project I learned:
 
 ## 🚀 Future Improvements
 
-- Interactive Dashboard using Streamlit
-- Power BI Dashboard
-- Automated PDF Report Generation
-- SQL Database Integration
-- Business KPI Dashboard
+- Build an interactive dashboard using Streamlit.
+- Add advanced business KPIs and performance metrics.
+- Automate report generation in PDF format.
+- Integrate the project with a SQL database.
+- Add filtering and interactive visualizations.
 
 ## 👩‍💻 Author
 
