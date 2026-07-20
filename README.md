@@ -128,7 +128,7 @@ Jar-Growth-Assignment/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Jar-Growth-Assignment.git
+git clone https://github.com/soniyaritgithub/jar-growth-data-analysis.git
 ```
 
 Move into the project folder
