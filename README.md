@@ -1,12 +1,8 @@
 # 📊 Jar Growth Data Analysis
 
-Professional Sales Data Analysis Project developed using Python, Pandas and Matplotlib.
+Professional Sales Data Analysis Project developed using Python, Pandas, and Matplotlib as part of the Jar Growth Internship Assignment.
 
-This project analyzes sales performance, profitability, monthly sales targets and regional performance to generate business insights using real-world datasets.
-
-A professional data analysis project developed as part of the Jar Growth Internship Assignment.
-
-This project analyzes sales performance, profitability, monthly sales targets, and regional business performance using Python and data visualization techniques.
+This project analyzes sales performance, profitability, monthly sales targets, and regional business performance to generate actionable business insights using real-world datasets.
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 
@@ -102,7 +98,7 @@ The analysis includes:
 ## 📂 Project Structure
 
 ```text
-Jar-Growth-Assignment/
+jar-growth-data-analysis/
 │
 ├── data/
 │   ├── List_of_Orders.xlsx
@@ -114,7 +110,7 @@ Jar-Growth-Assignment/
 │   ├── furniture_target_trend.png
 │   └── regional_sales.png
 │
-├── report/
+├── Report/
 │   ├── Jar_Growth_Intern_Assignment_Report.docx
 │   └── Jar_Growth_Intern_Assignment.pdf
 │
@@ -134,7 +130,7 @@ git clone https://github.com/soniyaritgithub/jar-growth-data-analysis.git
 Move into the project folder
 
 ```bash
-cd Jar-Growth-Assignment
+cd jar-growth-data-analysis
 ```
 
 Install dependencies
